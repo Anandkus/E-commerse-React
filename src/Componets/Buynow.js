@@ -14,7 +14,7 @@ const Buynow = () => {
 <div className="container2">
     
 
-    <form action="/" method="get">
+    <form action="/E-commerse-React/" method="get">
 
         <div className="row">
 

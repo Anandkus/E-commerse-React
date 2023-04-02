@@ -172,7 +172,7 @@ const Nav = () => {
         <ul className="navbar-lists">
           <li>
             <NavLink
-              to="/"
+              to="/E-commerse-React/"
               className="navbar-link "
               onClick={() => setMenuIcon(false)}>
             
